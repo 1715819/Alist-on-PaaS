@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: xyouxiu6/opengpt:v1
+          tags: xyouxiu6/alistv3:wypaas1
